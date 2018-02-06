@@ -52,5 +52,7 @@ int main(){
 }
 ```
 编译运行程序，依次输入5个整数，回车，运行结果如下：
-![](https://thumbnail0.baidupcs.com/thumbnail/f47d6e982bd49b8a6a10e7066cf4f70f?fid=427924432-250528-95786580069134&time=1517929200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-fS1Pyzrq57kwVyGsIrWWDEQwfvc%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=857885373484580519&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)、
+
+![](https://thumbnail0.baidupcs.com/thumbnail/f47d6e982bd49b8a6a10e7066cf4f70f?fid=427924432-250528-95786580069134&time=1517929200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-fS1Pyzrq57kwVyGsIrWWDEQwfvc%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=857885373484580519&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+
 成功用头插法建立链表！
